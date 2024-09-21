@@ -1,3 +1,5 @@
+![](gif.gif)
+
 # Salut, je suis Rayane 👋
 
 ### 🎓 Étudiant en BTS SIO - Option SLAM (Solutions Logicielles et Applications Métier)
