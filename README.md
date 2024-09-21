@@ -17,5 +17,5 @@ Je suis actuellement en 2ème année de BTS SIO avec une spécialisation en dév
 🔗 **Connecte-toi avec moi sur GitHub pour suivre mes projets !**
 
 - **GitHub:** [@LaKensak](https://github.com/LaKensak)
-- **LinkedIn:** [@rayane-charkaoui-786a25235]([https://www.linkedin.com/in/rayane-charkaoui-786a25235])
+- **LinkedIn:** [@rayane-charkaoui-786a25235](https://www.linkedin.com/in/rayane-charkaoui-786a25235)
 
