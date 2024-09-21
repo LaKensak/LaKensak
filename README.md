@@ -15,3 +15,7 @@ Je suis actuellement en 2ème année de BTS SIO avec une spécialisation en dév
 - Création d'un site web dynamique avec React et Three.js.
 
 🔗 **Connecte-toi avec moi sur GitHub pour suivre mes projets !**
+
+- **GitHub:** [@LaKensak](https://github.com/LaKensak)
+- **LinkedIn:** [@Rayane]([https://www.linkedin.com/in/nh4ttruong](https://www.linkedin.com/in/rayane-charkaoui-786a25235))
+
