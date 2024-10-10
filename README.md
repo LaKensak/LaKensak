@@ -8,7 +8,7 @@ Je suis actuellement en 2ème année de BTS SIO avec une spécialisation en dév
 
 - 💻 Langages : Python, PHP, SQL, JavaScript
 - 🌐 Web : HTML, CSS, Bootstrap, React
-- 🛠️ Outils : Git, GitHub, PhpStorm, PyCharm, 
+- 🛠️ Outils : Git, GitHub, PhpStorm, PyCharm
 
 🚀 **Projets récents** :
 - Développement d'une application de gestion des stocks.
