@@ -2,12 +2,12 @@
 
 # Salut, je suis Rayane 👋
 
-### 🎓 Étudiant en BTS SIO - Option SLAM (Solutions Logicielles et Applications Métier)
+### 🎓 Étudiant en LP MICDTL
 
-Je suis actuellement en 2ème année de BTS SIO avec une spécialisation en développement d'applications. Passionné par la programmation et le développement de solutions logicielles, je travaille sur des projets variés pour renforcer mes compétences.
+Je suis actuellement en 3ème année de LP avec une spécialisation en développement d'applications. Passionné par la programmation et le développement de solutions logicielles, je travaille sur des projets variés pour renforcer mes compétences.
 
 - 💻 Langages : Python, PHP, SQL, JavaScript
-- 🌐 Web : HTML, CSS, Bootstrap, React
+- 🌐 Web : HTML, CSS, Bootstrap, React, Django
 - 🛠️ Outils : Git, GitHub, PhpStorm, PyCharm
 
 🚀 **Projets récents** :
